@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-12T16:16:46 EET" name="Default suite" finished-at="2024-02-12T16:19:04 EET" duration-ms="138326">
+    <groups>
+    </groups>
+    <test started-at="2024-02-12T16:16:46 EET" name="Default test" finished-at="2024-02-12T16:19:04 EET" duration-ms="138326">
+      <class name="test.test">
+        <test-method is-config="true" signature="myBeofreTesting()[pri:0, instance:test.test@13e344d]" started-at="2024-02-12T16:16:46 EET" name="myBeofreTesting" finished-at="2024-02-12T16:16:46 EET" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeofreTesting -->
+        <test-method signature="myAppTesting()[pri:0, instance:test.test@13e344d]" started-at="2024-02-12T16:16:46 EET" name="myAppTesting" finished-at="2024-02-12T16:19:04 EET" duration-ms="137878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAppTesting -->
+        <test-method is-config="true" signature="myPostTesting()[pri:0, instance:test.test@13e344d]" started-at="2024-02-12T16:19:04 EET" name="myPostTesting" finished-at="2024-02-12T16:19:04 EET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPostTesting -->
+      </class> <!-- test.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
